@@ -1,5 +1,10 @@
 /**
- * Approach 3: Single pass — swap non-zero with write pointer position
+ * 283. Move Zeroes
+ * Difficulty: Easy
+ * Topic: Two Pointers
+ * Link: https://leetcode.com/problems/move-zeroes/
+ *
+ * Approach: Single pass — swap non-zero with write pointer position
  * Time:  O(n)
  * Space: O(1)
  *
